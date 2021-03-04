@@ -1,3 +1,4 @@
+// Buffer Excercise - 1 : 
 var buf = new Buffer(100);
 var i
 for(i=0;i<100;i++)
@@ -6,3 +7,4 @@ for(i=0;i<100;i++)
 }
 
 console.log(buf);
+
